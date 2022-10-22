@@ -11,5 +11,5 @@ int _printf(const char *format, ... )
 
 	va_list start;
 
-	va_start(start, format)
+	va_start(start, format);
 }
